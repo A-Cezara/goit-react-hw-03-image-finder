@@ -1,0 +1,30 @@
+.searchbar {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .form {
+    display: flex;
+  }
+  
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #2196f3;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .input {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .buttonLabel {
+    font-weight: bold;
+  }
